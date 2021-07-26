@@ -24,6 +24,8 @@ function Cards() {
               text="Me and ammu but as cats"
               path="/art"
             ></CardItem>
+          </ul>
+          <ul className="cards__items">
             <CardItem
               src="/images/me.png"
               text="Serenity"
@@ -36,9 +38,11 @@ function Cards() {
             ></CardItem>
             <CardItem
               src="/images/penguins.png"
-              text="A true moment with one of my best friends! After our finals in grade 10, we chilled inside an empty majlis inside our school and watched Pingu in the dark as the laptop glowed. Half an episode passed when I realized my friend had fallen asleep but I didn't wake her up till I had to leave for a robotics meeting."
+              text="A true moment with one of my best friends! After our finals in grade 10, we chilled inside an empty majlis inside our school and watched Pingu. Half an episode passed when I realized my friend had fallen asleep but I didn't wake her up till I had to leave for a robotics meeting."
               path="/art"
             ></CardItem>
+          </ul>
+          <ul className="cards__items">
             <CardItem
               src="/images/space shwimp cropped.png"
               text="I want a pet space shwimp someday!"
